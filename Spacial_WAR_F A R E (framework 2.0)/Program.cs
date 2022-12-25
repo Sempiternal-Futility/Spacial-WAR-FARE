@@ -1,9 +1,6 @@
 ﻿using System;
 using System.Threading;
 
-//ADD LINUX VERSION
-//BUG TEST
-
 /*
 NOTES FOR DEVS/MODDERS :)
 
