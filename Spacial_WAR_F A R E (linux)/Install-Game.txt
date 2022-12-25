@@ -1,0 +1,38 @@
+﻿This file is contains a set of instructions for you to follow to "install" the game on linux
+
+
+1- Downloading .NET 6.0
+Go to this link (https://learn.microsoft.com/en-us/dotnet/core/install/linux-scripted-manual#scripted-install)  and download the script to install .NET.
+
+Once you download the .sh file, run this on your terminal: sudo chmod +x ./dotnet-install.sh   
+After running this commnand, run this other one (make sure you're not running it as root, or .NET will be installed on your root user directory): ./dotnet-install.sh --runtime dotnet --channel 6.0
+
+This should install the .NET 6.0 Runtime on your system. To check if it installed properly, run the command "ls -a" on your home folder, you should see a folder called ".dotnet"
+
+
+
+2- Running the game
+Now that .NET is properly installed, run this command: "cd .dotnet"
+Now run this other command: "dotnet (location of your game dll)"
+This should open the game on a terminal emulator, all you have to do is run dotnet, the folder of your game, and the game dll
+
+But we can make this process simpler, by adding ".dotnet" to the PATH
+
+
+
+3- Adding .dotnet to PATH
+Open your .bashrc file with whatever text editor you find the most comfortable, now type this command: "PATH=/home/user/.dotnet/:$PATH"
+(Type that command without the quotes, and replace "user" with your username)
+
+Now you should be able to use dotnet in whatever folder you are on!
+But we can make this process even faster!
+
+
+
+
+4- Creating alias to the game
+Open your .bashrc file again, and type this command: "alias spacial='dotnet (location of your game dll)'"
+Now instead of typing "(location of your game dll)" you replace it with the actual path to your game dll file, now whenever you type "spacial" inside a terminal emulator, you should jump straight into the game!
+
+(Remember to have your terminal emulator in fullscreen / maximized, or the game will have visual issues!!!)
+
