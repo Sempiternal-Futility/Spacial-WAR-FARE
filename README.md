@@ -81,4 +81,5 @@ Kernel: Linux 5.10.0-20-amd64
 CPU: AMD Ryzen 3 2200g
 
 &nbsp;
+
 Hope you enjoy the game!!!
