@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Spacial_WAR_F A R E/1.0.0": {
+        "runtime": {
+          "Spacial_WAR_F A R E.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Spacial_WAR_F A R E/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
