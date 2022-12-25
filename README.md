@@ -2,7 +2,7 @@
 Try to the highest score you can!
 
 
-
+&nbsp;
 
 2- SCORE: Each enemy you kill, your score is incremented by 1 (duhhh)
 After you get the game over screen, your score will get saved to a file in your game's directory!
