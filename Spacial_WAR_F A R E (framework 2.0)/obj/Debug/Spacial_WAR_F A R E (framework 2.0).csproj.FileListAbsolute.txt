@@ -1,6 +1,0 @@
-C:\Users\joaopedro2529082gmai\Documents\VS Projects\Spacial_WAR_F A R E (framework 2.0)\obj\Debug\Spacial_WAR_F A R E (framework 2.0).csproj.AssemblyReference.cache
-C:\Users\joaopedro2529082gmai\Documents\VS Projects\Spacial_WAR_F A R E (framework 2.0)\obj\Debug\Spacial_WAR_F A R E (framework 2.0).csproj.CoreCompileInputs.cache
-C:\Users\joaopedro2529082gmai\Documents\VS Projects\Spacial_WAR_F A R E (framework 2.0)\bin\Debug\Spacial_WAR_F A R E (framework 2.0).exe
-C:\Users\joaopedro2529082gmai\Documents\VS Projects\Spacial_WAR_F A R E (framework 2.0)\bin\Debug\Spacial_WAR_F A R E (framework 2.0).pdb
-C:\Users\joaopedro2529082gmai\Documents\VS Projects\Spacial_WAR_F A R E (framework 2.0)\obj\Debug\Spacial_WAR_F A R E (framework 2.0).exe
-C:\Users\joaopedro2529082gmai\Documents\VS Projects\Spacial_WAR_F A R E (framework 2.0)\obj\Debug\Spacial_WAR_F A R E (framework 2.0).pdb
