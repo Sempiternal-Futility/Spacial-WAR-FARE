@@ -2,9 +2,6 @@
 using System.Threading;
 using System.Runtime.InteropServices;
 
-//ADD LINUX VERSION
-//BUG TEST
-
 /*
 NOTES FOR DEVS/MODDERS :)
 
