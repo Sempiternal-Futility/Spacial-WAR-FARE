@@ -9,7 +9,7 @@ After you get the game over screen, your score will get saved to a file in your 
 (NOTE THAT, THE SCORE IS ONLY GOING TO GET SAVED IF YOU PRESS Y OR N, SO IF YOU QUIT WITH ALT+F4 THE SCORE WON'T SAVE, ONLY WAY TO QUIT THE GAME SAVING YOUR SCORE IS PRESSING 'N' ON GAME OVER SCREEN)
 
 
-
+&nbsp;
 
 3- MOVEMENT: You can move only 2 directions (left and right).
 To move to the left you can use either 'a' or the 'left arrow'.
@@ -22,12 +22,12 @@ Sorta like pac-man
 
 
 
-
+&nbsp;
 
 4- SHOOTING: That's you kill your foes, you can press either 's' or 'spacebar'
 
 
-
+&nbsp;
 
 5 - KNOWN BUGS:
 
@@ -38,7 +38,7 @@ If you find anymore bugs, please open up an issue in github so i can be aware of
 
 
 
-
+&nbsp;
 
 6- .NET 6 VS .FRAMEWORK 2.0 VERSIONS: There's very few differences in the code of these 2 versions.
 
@@ -50,7 +50,7 @@ There are some other changes to the code, yes, but they are very minor, and as f
 
 
 
-
+&nbsp;
 
 7- WHICH ONE SHOULD I USE (.net 6 ,  framework 2.0,  or linux):
 
@@ -59,27 +59,26 @@ Both .Net 6 for windows and framework 2.0 have cpu spikes whenever you shoot, th
 
 But the best one is the linux version, it has the least amount of bugs (1), its the most stable of the three, and the performance is INCREDIBLE, with no cpu spikes at all, running at around 5% of cpu usage constantly on an old celeron 847
 
-
+&nbsp;
 
 Hardware used to test .NET 6 version: 
 OS: Windows 10 Pro x86_64
 Kernel: 10.0.19045
 CPU: AMD Ryzen 3 2200g
 
-
+&nbsp;
 
 Hardware used to test .NET Framework 2.0 version:
 OS: Windows XP (Virtual Box VM)
 Kernel: ?
 CPU: AMD Ryzen 3 2200g
 
-
-
+&nbsp;
 
 Hardware used to test .NET 6 (linux):
 OS: GNU/Linux Debian 11 (bullseye) x86_64 (Virtualbox VM)
 Kernel: Linux 5.10.0-20-amd64
 CPU: AMD Ryzen 3 2200g
 
-
+&nbsp;
 Hope you enjoy the game!!!
